@@ -1,2 +1,5 @@
-# dio_santander_bootcamp
-Bootcamp Santander 2022
+# Dio Santander Bootcamp
+
+## Bootcamp Santander 2022
+
+-.- Diretorio criado e commit, push feito através VSC.
